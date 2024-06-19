@@ -15,3 +15,23 @@ print("Impares", impares)
 
 print(pares + impares)
 
+akldjfhakdlfadfasdf
+asdf
+asdfasdf
+asdf
+asd
+fasd
+fasd
+fas
+dfads
+fds
+fd
+f
+f
+a
+akgsdfkgsdfgsdfgsdfg
+sdf
+gsd
+fgs
+dfg
+sdfgfsd
