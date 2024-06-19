@@ -9,8 +9,6 @@ for i in numeros:
     else:
         impares.append(i)
 
-print("Pares", pares)
-print("Impares", impares)
 
 
 print(pares + impares)
